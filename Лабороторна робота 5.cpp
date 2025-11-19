@@ -11,7 +11,7 @@ int main() {
     cout << "Введіть дужку: ";
     cin >> ch;
 
-
+    // Duck add // 
     switch (ch) {
     case '(':
         cout << "Відкрита кругла дужка" << endl;
